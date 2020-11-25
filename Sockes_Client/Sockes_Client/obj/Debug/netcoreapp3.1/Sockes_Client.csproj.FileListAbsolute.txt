@@ -1,0 +1,13 @@
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\bin\Debug\netcoreapp3.1\Sockes_Client.exe
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\bin\Debug\netcoreapp3.1\Sockes_Client.deps.json
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\bin\Debug\netcoreapp3.1\Sockes_Client.runtimeconfig.json
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\bin\Debug\netcoreapp3.1\Sockes_Client.runtimeconfig.dev.json
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\bin\Debug\netcoreapp3.1\Sockes_Client.dll
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\bin\Debug\netcoreapp3.1\Sockes_Client.pdb
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\obj\Debug\netcoreapp3.1\Sockes_Client.AssemblyInfoInputs.cache
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\obj\Debug\netcoreapp3.1\Sockes_Client.AssemblyInfo.cs
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\obj\Debug\netcoreapp3.1\Sockes_Client.csproj.CoreCompileInputs.cache
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\obj\Debug\netcoreapp3.1\Sockes_Client.dll
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\obj\Debug\netcoreapp3.1\Sockes_Client.pdb
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\obj\Debug\netcoreapp3.1\Sockes_Client.genruntimeconfig.cache
+D:\Proyectos Desarrollo\Sockets\Sockes_Client\Sockes_Client\obj\Debug\netcoreapp3.1\Sockes_Client.csprojAssemblyReference.cache
